@@ -1,0 +1,21 @@
+{
+  "name": "toyrobot",
+  "version": "1.0.0",
+  "description": "A toy robot that follows command written in a file",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshu16/toyRobot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arshu16/toyRobot/issues"
+  },
+  "homepage": "https://github.com/arshu16/toyRobot#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
